@@ -25,7 +25,7 @@ LCD_Library
       0,3 = landscape rotations 
       1,2 = potrait rotation    
       
-      dont worry about sending a box that is 4000pixles wide, i my code rejects anything above the current resolution. 
+      dont worry about sending a box that is 4000pixles wide, my code rejects anything above the current resolution. 
       without that the display would act up and display garbage
       		
 		LCD_SendPixel():
