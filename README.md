@@ -6,7 +6,7 @@ LCD_Library
   
 
  
- This Library currently work with the SSD1289, ST7735 and ST7735R -- Will be adding more libraries eventually
+ This Library currently works with the SSD1289, ST7735 and ST7735R -- Will be adding more libraries eventually
  --------------------------------------------------------------------------------------------------------------
  
   	color: 
@@ -52,6 +52,6 @@ LCD_Library
 			
 		LCD_Write_Style_Line();
 			- Same as the write line except you will be using arial font. Do not use ~ or / keys. they will not print properly
-			- Will make updates to allow other font
+			- Will make updates to allow other fonts
 			
 ----------------------------------------------------------------------------------
